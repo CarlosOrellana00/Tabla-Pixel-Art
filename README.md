@@ -28,29 +28,52 @@ de manera local en una computadora.
 El Programa se nos presenta de forma sensilla al abrir la vista.
 <div align="center">
   <a href="https://carlosorellana00.github.io/Tabla-Pixel-Art/" rel="noopener">
-    <img src="docs/img/img.jpg" alt="icon" width="50%">
+    <img src="docs/img/img.jpg" alt="icon" width="60%">
   </a> 
 </div>
 
 Podemos decidir el Maximo del Ancho de recuadro que querramos establecer.
 <div align="center">
   <a href="https://carlosorellana00.github.io/Tabla-Pixel-Art/" rel="noopener">
-    <img src="docs/img/img2.jpg" alt="icon" width="50%">
+    <img src="docs/img/img2.jpg" alt="icon" width="60%">
   </a> 
 </div>
 
 Tambien podemos decidir cual sera el Maximo del Largo de neustro recuadro.
 <div align="center">
   <a href="https://carlosorellana00.github.io/Tabla-Pixel-Art/" rel="noopener">
-    <img src="docs/img/img3.jpg" alt="icon" width="50%">
+    <img src="docs/img/img3.jpg" alt="icon" width="60%">
   </a> 
 </div>
 
+Tambien podemos elejir el color que queramos escogiendolo en el espectro de colores, y para pintarlo solo debemos seleccionar el botón "Pintar" y 
+para borrar el botón "Borrar" para fijar la orden.
+<div align="center">
+  <a href="https://carlosorellana00.github.io/Tabla-Pixel-Art/" rel="noopener">
+    <img src="docs/img/img4.jpg" alt="icon" width="60%">
+  </a> 
+</div>
 
+## Ejemplos de Empleo:
 
+Aqui algunos Arts hechos por mi en este programa.
+<div align="center">
+  <a href="https://carlosorellana00.github.io/Tabla-Pixel-Art/" rel="noopener">
+    <img src="docs/img/imgEx1.jpg" alt="icon" width="60%">
+  </a> 
+</div>
 
+<div align="center">
+  <a href="https://carlosorellana00.github.io/Tabla-Pixel-Art/" rel="noopener">
+    <img src="docs/img/imgEx2.jpg" alt="icon" width="60%">
+  </a> 
+</div>
 
-
+<div align="center">
+  <a href="https://carlosorellana00.github.io/Tabla-Pixel-Art/" rel="noopener">
+    <img src="docs/img/imgEx3.jpg" alt="icon" width="60%">
+  </a> 
+</div>
 
 ## Agradecimientos:
 
